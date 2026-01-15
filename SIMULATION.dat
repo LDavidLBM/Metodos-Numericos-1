@@ -1,0 +1,26 @@
+  INFORMATION OF THE SIMULATION
+ *****************=**************************
+  N. OF PARTICLES =          256
+  DENSITY         =    1.000766    
+  PACKING FRACTION=   0.5240000    
+  TEMPERATURE     =    1.500000    
+  SW RANGE        =    1.500000    
+  BOX LENGTH      =    6.347983    
+  BIN SIZE        =   9.9999998E-03  0.9897923    
+  MAXIMUN R/Q     =   0.6400000       63.34671    
+  MC CYCLES       =       195312
+ *****************=**************************
+  E/N INITIAL     =   0.0000000E+00
+ *****************=**************************
+  NO. OF SAMPLES  =    25000.00    
+  DISPLACEMENT    =    1.823062    
+  ACCEPTANCE 1    =   0.3000327    
+ *****************=**************************
+  T*E/N FINAL     =   0.0000000E+00
+  AVERAGE ENERGY  =   0.0000000E+00
+  MEAN DEVIATION  =   0.0000000E+00
+  AVERAGE DENSITY  =   0.3015947    
+  MEAN DEVIATION  =   5.5466782E-29
+ ****************=***************************
+  Promedio interraciones  =    1.828437    
+ Varianza de num. de int. =   0.3388703    
