@@ -6,7 +6,7 @@ def taylor_exp(x ,n):
     sum=0
     for k in range(n+1):
         sum=sum=x**k/math.factorial(k)
-        return sum
+    return sum
 x=np.linspace(-5,5,100)
 
 plt.figure(figsize=(8,8))
